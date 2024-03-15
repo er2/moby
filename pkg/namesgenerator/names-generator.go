@@ -33,6 +33,7 @@ var (
 		"busy",
 		"charming",
 		"clever",
+		"cogitating",
 		"compassionate",
 		"competent",
 		"condescending",
@@ -750,6 +751,9 @@ var (
 
 		// Frances Spence - one of the original programmers of the ENIAC. https://en.wikipedia.org/wiki/ENIAC - https://en.wikipedia.org/wiki/Frances_Spence
 		"spence",
+
+		// Charles Proteus Steinmetz - German-born American electrical engineer and inventor - https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz
+		"steinmetz",
 
 		// Michael Stonebraker is a database research pioneer and architect of Ingres, Postgres, VoltDB and SciDB. Winner of 2014 ACM Turing Award. https://en.wikipedia.org/wiki/Michael_Stonebraker
 		"stonebraker",
